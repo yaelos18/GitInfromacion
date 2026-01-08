@@ -1,0 +1,6 @@
+print("mi nombre es juan carlos alvarez ortiz")
+print("mis fortalezas son la honestidad, la responsabilidad y la determinacion")
+print("mis debilidades son ser impaciente y procrastinar")
+print("mis guston son el basquetboll, los videojuegos y la musica")
+print("mis artistas favoritos son iimajine dragons,")
+print("lo que hice en vacaciones fue jugar dormir hablar y salir coon mi novia y jugar mas")
