@@ -1,0 +1,6 @@
+print("mi nombre es dylan yael hernandez martinez")
+print("mis fortalezas son la honestidad, la responsabilidad y el resppreto")
+print("mis debilidades son la impaciencia y el ser muy imperactivo")
+print("mis guston son el futbol, los videojuegos y la musica")
+print("mis artistas favoritos son gorillaz, red hot chili peppers, zoe y caifanes")
+print("lo que hice en vacaciones fue ir a la playa y salir a pasear con mis perros, aunque se compuso mas de trabajar")
