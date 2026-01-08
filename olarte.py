@@ -1,0 +1,6 @@
+print("mi nombre es jose eduardo olarte baena")
+print("mis fortalezas son mis amigos y mi familia")
+print("mis debilidades son las mujeres celosas")
+print("mis guston son el futbol, los videojuegos y los carros y la musica")
+print("mis artistas favoritos son peso pluma, natanael cano y ememandafe")
+print("lo que hice en vacaciones fue ir a pasaer sali a lugares nuevos dormi cocine jugue y ya ")
