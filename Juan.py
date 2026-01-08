@@ -1,0 +1,6 @@
+print("Mi nombre es Juan Carlos Alvarez Ortiz ")
+print("Mis fortalezas son la determinación la honestidad y la amistad xD")
+print("Mis debilidades son: que me distraigo fácil no se medir mis tiempos y Noce dividir bien xD")
+print("Mis gustos son: pus la comida la música los videojuegos")
+print("Mis gustos musicales son: Noce la verdad no sé ni que escucho")
+print("Lo que hice en mis vacaciones fue: dormir desayunar jugar videojuegos hablar con mi novia salir con ella y jugar otra vez")
